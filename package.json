@@ -1,6 +1,6 @@
 {
   "name": "@nlf/cli-logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a logger that i use for cli tools",
   "main": "lib/index.js",
   "scripts": {},
